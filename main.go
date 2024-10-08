@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-    logrus.Info("Application is starting...")
+    logrus.Info("Application is startikdsdkng...")
     fmt.Println("Hello, World!")
     logrus.Info("Application has ended.")
 }
